@@ -96,15 +96,15 @@ Images:
 
 LCD showing temperature and humidity:
 
-![LCD display](images/lcd_display.jpg)
+![LCD display](images/lcd_display.JPG)
 
 Setup:
 
-![Setup](images/setup.jpg)
+![Setup](images/setup.JPG)
 
 AHT20 temperature and humidity sensor:
 
-![AHT20 sensor](images/temp_sensor.jpg)
+![AHT20 sensor](images/temp_sensor.JPG)
 
 
 Future ideas
