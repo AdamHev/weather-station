@@ -100,11 +100,11 @@ LCD showing temperature and humidity:
 
 Setup:
 
-![LCD display](images/setup.jpg)
+![Setup](images/setup.jpg)
 
 AHT20 temperature and humidity sensor:
 
-![LCD display](images/temp_sensor.jpg)
+![AHT20 sensor](images/temp_sensor.jpg)
 
 
 Future ideas
